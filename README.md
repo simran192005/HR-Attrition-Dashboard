@@ -39,10 +39,10 @@ Source: Kaggle
 
 ## Dashboard Screenshots
 ### Page 1 — Overview
-![Page 1](page1_overview.png)
+![Page 1](page1.png)
 
 ### Page 2 — Insights
-![Page 2](page2_insights.png)
+![Page 2](page2.png)
 
 ### Page 3 — Key Findings
-![Page 3](page3_findings.png)
+![Page 3](page3.png)
